@@ -1,16 +1,15 @@
 {
   "files": {
     "main.css": "/linkatron/static/css/main.f855e6bc.css",
-    "main.js": "/linkatron/static/js/main.14bb2f27.js",
+    "main.js": "/linkatron/static/js/main.f0c2f880.js",
     "static/js/787.4832460a.chunk.js": "/linkatron/static/js/787.4832460a.chunk.js",
-    "static/media/logo.svg": "/linkatron/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/linkatron/index.html",
     "main.f855e6bc.css.map": "/linkatron/static/css/main.f855e6bc.css.map",
-    "main.14bb2f27.js.map": "/linkatron/static/js/main.14bb2f27.js.map",
+    "main.f0c2f880.js.map": "/linkatron/static/js/main.f0c2f880.js.map",
     "787.4832460a.chunk.js.map": "/linkatron/static/js/787.4832460a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f855e6bc.css",
-    "static/js/main.14bb2f27.js"
+    "static/js/main.f0c2f880.js"
   ]
 }
